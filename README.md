@@ -6,7 +6,7 @@ In this notebook, you will build a deep neural network that functions as part of
 
 # Setup
 
-This project requires GPU acceleration to run efficiently. Support is available to use either of the following two methods for accessing GPU-enabled cloud computing resources.
+This project requires GPU acceleration to run efficiently.
 
 ## Install
 - Python 3
